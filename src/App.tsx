@@ -17,14 +17,14 @@ function App() {
       <Container>
         <Header>
           <H1 className="text-center text-blue-600">
-            ESBOÇO AULA 13 DO 4° TRIMESTRE DE 2025
+            ESBOÇO AULA 11 DO 1° TRIMESTRE DE 2026
           </H1>
         </Header>
 
         <Section>
           <div className="flex items-center gap-4">
             <H2>TITULO:</H2>
-            <P>Uma Palavra Profética às Nações</P>
+            <P>A adoção — Entrando na família de Deus</P>
           </div>
         </Section>
 
@@ -33,8 +33,7 @@ function App() {
         <Section>
           <H2>RESUMO DA LIÇÃO:</H2>
           <P>
-            Assim como o profeta Jeremias, temos a missão de anunciar a Palavra
-            de Deus até os confins da Terra.
+            Em Cristo, fomos feitos filhos Deus por meio da adoção, guiados pelo Espírito e coerdeiros de uma esperança gloriosa.
           </P>
         </Section>
 
@@ -46,27 +45,31 @@ function App() {
           <List>
             <ListItem icon="➤">
               <strong className="font-semibold text-slate-900 dark:text-slate-100">
-                COMPREENDER
+                APRESENTAR
               </strong>{" "}
-              que Deus fala às nações
+              o que é a doutrina bíblica da Adoção;
             </ListItem>
 
             <ListItem icon="➤">
               <strong className="font-semibold text-slate-900 dark:text-slate-100">
-                REFLETIR
+                EXPLANAR
               </strong>{" "}
-              sobre o chamado de Jeremias
+              a respeito da Adoção mediante o Espírito;
             </ListItem>
 
             <ListItem icon="➤">
               <strong className="font-semibold text-slate-900 dark:text-slate-100">
-                SABER
+                EXPLICAR
               </strong>{" "}
-              que Israel falhou com as nações
+              acerca da Adoção como realidade presente e futura.
             </ListItem>
           </List>
         </Section>
+
         <Divider />
+
+<!--Continuar aqui-->
+
         <Section>
           <H2>APLICAÇÃO INICIAL: </H2>
           <P>
